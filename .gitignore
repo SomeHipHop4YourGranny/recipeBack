@@ -1,0 +1,9 @@
+
+#deps
+/node_modules
+
+#env
+/src/config/.env
+
+#build
+/build

@@ -1,0 +1,46 @@
+{
+  "title": "recipe1",
+  "instruction": "intruction1",
+  "advice": "advice1",
+  "addData": {
+    "calories": "25",
+    "proteins": "43",
+    "fats": "90",
+    "carbohydrates": "60",
+    "portion": "3",
+    "time": "20"
+  },
+  "categories": [
+    {
+      "_category": "5e2f2f2094b5d10d95c14421"
+    }
+  ],
+  "_author": "5e2f2f2094b5d10d95c14421",
+  "comments": [
+    {
+      "comment": {
+        "text": "SomeComment1",
+        "_author": "5e2f2fb62fae090dc9c6acc5"
+      }
+    }
+  ],
+  "imgs": [
+    {
+      "img": {
+        "title": "img1",
+        "src": "https://source.unsplash.com/1600x900/?food"
+      }
+    },
+    {
+      "img": {
+        "title": "img1",
+        "src": "https://source.unsplash.com/1600x900/?food"
+      }
+    }
+  ]
+}
+
+{
+  "login":"qwe4r",
+  "password":"password"
+}
